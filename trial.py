@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_paste_button import paste_image_button as pbutton
+from streamlit_paste_button.__init__ import paste_image_button as pbutton
 from io import StringIO
 import pandas as pd
 import cv2 as cv
